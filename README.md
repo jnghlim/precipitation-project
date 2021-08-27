@@ -11,5 +11,7 @@ I thought people do not consider and take it lightly because they just heard abo
 
  Used Library: BeautifulSoup4, csv
 
- By using 
+ By using beautifulsoup4 library, scrapper scrapped all the rows of the talbe from https://www.cnrfc.noaa.gov/. While scrapping, I decided to drop rows which had 'M' in index because all the rows that had 'M' in the index had missing value for 'Total WY' and 'Pct Avg to Date'
+
+ C:\Users\lim95\Documents\GitHub\precipitation-project\cities_precipitation.png
 
