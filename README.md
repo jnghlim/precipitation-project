@@ -19,6 +19,6 @@ I thought people do not consider and take it lightly because they just heard abo
 
  Usually I use all of the libraries above when I do something with the data, but this time I was able to use only pandas and matplotlib libraries. Detailed comments, explanation of the process and analysis on the data and graphs are on the notebook!
  
- ![Alt text](C:\Users\lim95\Documents\GitHub\precipitation-project?raw=true "Title")
+![plot](C:\Users\lim95\Documents\GitHub\precipitation-project)
 
-
+C:\Users\lim95\Documents\GitHub\precipitation-project
