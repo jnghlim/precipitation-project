@@ -36,4 +36,8 @@ Image #3 illustrates the precipitation of certain location where represents the 
 
 
 
+
+
+
+
 #### :notebook_with_decorative_cover: More details about the graphs, data, and the process of data preprocessing are in JupyterNotebook file in the repository!
