@@ -34,3 +34,6 @@ Image #2 illustrates the precipitation of the whole regions. Added all the locat
 
 Image #3 illustrates the precipitation of certain location where represents the surrounding areas. I had selected these locations by selecting where had mean amount of precipitation among the neighboring locations. From these graph I was able to see that except for few locations, most of the locations had a downside of precipitation recently. It was crucial to see the limit of y-axis for each graph. Each graph had different limit of y-axis, so it would cause a misinterpretation from just looking at the slope of the graphs. After observing the y-axis limit, most of the area's highest precipitation was between 11 to 40 which supports the argument that California is in a severe drought.
 
+
+
+#### More details about the graphs, data, and the process of data preprocessing are in JupyterNotebook file in the repository!
