@@ -27,5 +27,7 @@ Image #1 shows the precipitation of the whole locations from 2002 to 2019. This 
 ### Image #2
 ![Test Image 3](cities_precipitation.png)
 
+Image #2 illustrates the precipitation of the whole regions. Added all the location's total precipitation by monthly. Since we could not extract statistical information by referring all the locations, I thought it would be better to illustrate the whole state's precipitation to see it's precipitation condition in general.
+
 ![Test Image 3](cities_precipitation.png)
 
