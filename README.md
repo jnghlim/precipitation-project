@@ -19,6 +19,13 @@ I thought people do not consider and take it lightly because they just heard abo
 
  Usually I use all of the libraries above when I do something with the data, but this time I was able to use only pandas and matplotlib libraries. Detailed comments, explanation of the process and analysis on the data and graphs are on the notebook!
  
-![Test Image 5](cities_precipitation.png)
+### Image #1
+![Test Image 3](all_precip.png)
 
-C:\Users\lim95\Documents\GitHub\precipitation-project
+Image #1 shows the precipitation of the whole locations from 2002 to 2019. This graph illustrates that there are few locations that have regular cycle of precipitation, going up and down periodically and some locations remain low during the whole period. However, it is still hard to see the detailed statistical importance because of the high variety of locations.
+
+### Image #2
+![Test Image 3](cities_precipitation.png)
+
+![Test Image 3](cities_precipitation.png)
+
