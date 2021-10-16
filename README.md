@@ -1,4 +1,4 @@
-# Precipitation-Project
+# Precipitation-Project :umbrella:
 
  Wep Scrapping from https://www.cnrfc.noaa.gov/ and Data Visualization
 
@@ -19,17 +19,17 @@ I thought people do not consider and take it lightly because they just heard abo
 
  Usually I use all of the libraries above when I do something with the data, but this time I was able to use only pandas and matplotlib libraries. Detailed comments, explanation of the process and analysis on the data and graphs are on the notebook!
  
-### Image #1
+### Image #1 :chart_with_downwards_trend:
 ![Test Image 3](all_precip.png)
 
 Image #1 shows the precipitation of the whole locations from 2002 to 2019. This graph illustrates that there are few locations that have regular cycle of precipitation, going up and down periodically and some locations remain low during the whole period. However, it is still hard to see the detailed statistical importance because of the high variety of locations.
 
-### Image #2
+### Image #2 :chart_with_downwards_trend:
 ![Test Image 3](total_precip.png)
 
 Image #2 illustrates the precipitation of the whole regions. Added all the location's total precipitation by monthly. Since we could not extract statistical information by referring all the locations, I thought it would be better to illustrate the whole state's precipitation to see it's precipitation condition in general.
 
-### Image #3
+### Image #3 :chart_with_downwards_trend:
 ![Test Image 3](cities_precipitation.png)
 
 Image #3 illustrates the precipitation of certain location where represents the surrounding areas. I had selected these locations by selecting where had mean amount of precipitation among the neighboring locations. From these graph I was able to see that except for few locations, most of the locations had a downside of precipitation recently. It was crucial to see the limit of y-axis for each graph. Each graph had different limit of y-axis, so it would cause a misinterpretation from just looking at the slope of the graphs. After observing the y-axis limit, most of the area's highest precipitation was between 11 to 40 which supports the argument that California is in a severe drought.
